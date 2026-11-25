@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**yoyeonn/yoyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Third-year Information Systems Development student at ISET Charguia, Tunisia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in web development, software engineering and artificial intelligence.
+
+🌱 Currently improving my technical skills through academic and collaborative projects.
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+Java | Python | JavaScript | PHP | C
+
+**Web Development**
+
+Angular | Spring Boot | Node.js | HTML | CSS
+
+**Databases**
+
+MySQL | PostgreSQL | MongoDB
+
+**Tools & Technologies**
+
+Git | GitHub | Docker | Postman | REST APIs
+
+## 📂 Projects
+
+- **CampusShare** – A resource-sharing platform for students.
+- **MuseoTN** – A museum management web application.
+- **Pacific Travel App** – A travel reservation web application.
+- **JobConnect** – A job search and recruitment platform.
+
+## 🎯 Interests
+
+- Web Development
+- Artificial Intelligence
+- Software Engineering
+- Continuous Learning
